@@ -65,7 +65,7 @@ This repository contains all the Java programs and DSA implementations covered d
 - restoreAddress – Restore IP address (string logic)
 - NumToWords – Convert numbers to words
 
-### 🧵 Threads & Main
+### 🧵 Threads
 - MainThread – Threading with main method
 
 ---
